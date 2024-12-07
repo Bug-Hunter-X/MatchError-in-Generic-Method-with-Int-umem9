@@ -1,0 +1,2 @@
+# Scala Generic Method MatchError
+This example demonstrates a MatchError that can occur when using a generic method with an Int and attempting to apply a function that expects a type other than Int (such as String).
